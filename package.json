@@ -1,0 +1,24 @@
+{
+  "name": "effective-doodle",
+  "version": "1.0.0",
+  "description": "Code Challenge Challenge Title: Design and Implement a Scalable, Secure RESTful API Service with Distributed System Considerations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-gs:GabinoSantana/effective-doodle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0"
+  }
+}
